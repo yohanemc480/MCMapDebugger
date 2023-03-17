@@ -1,0 +1,6 @@
+{
+  "_comment":"タグ表示をする対象のエンティティ",
+  "values": [
+    "minecraft:armor_stand"
+  ]
+}
