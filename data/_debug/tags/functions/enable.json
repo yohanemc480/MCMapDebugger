@@ -3,6 +3,6 @@
 	"values": [
 		"command_block_inspector:enable",
 		"tag_inspector:enable",
-		"function visualize_unseen_entity:enable"
+		"visualize_unseen_entity:enable"
 	]
 }

@@ -4,7 +4,7 @@
 summon minecraft:text_display ~ ~ ~ {Tags:["tag_inspector","tag_inspector.display","tag_inspector.tmp"]}
 
 data modify entity @e[tag=tag_inspector.tmp,limit=1] transformation.scale set value [0.4f,0.4f,0.4f]
-data modify entity @e[tag=tag_inspector.tmp,limit=1] billboard set value "vertical"
+data modify entity @e[tag=tag_inspector.tmp,limit=1] billboard set value "center"
 data modify entity @e[tag=tag_inspector.tmp,limit=1] line_width set value 150
 data modify entity @e[tag=tag_inspector.tmp,limit=1] view_range set value 0.2f
 data modify entity @e[tag=tag_inspector.tmp,limit=1] see_through set value 1b
