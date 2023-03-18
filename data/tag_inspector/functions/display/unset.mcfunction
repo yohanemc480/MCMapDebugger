@@ -1,5 +1,4 @@
 ###vehicleがないディスプレイを消す
-
 #executor display
 
 #vehicleがあるフラグの初期化
