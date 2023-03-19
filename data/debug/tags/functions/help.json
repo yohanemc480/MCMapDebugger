@@ -1,0 +1,8 @@
+{
+	"replace": false,
+	"values": [
+		"command_block_inspector:enable",
+		"tag_inspector:enable",
+		"visualize_unseen_entity:enable"
+	]
+}
