@@ -1,2 +1,0 @@
-###パーティクルのカラーを示す
-tellraw @s [{"text":"marker","color":"#FF0000"},{"text":"text_display","color":"#00FF00"},{"text":"interaction","color":"#0000FF"},{"text":"block_display","color":"#FFFF00"},{"text":"item_display","color":"#FF00FF"}]
