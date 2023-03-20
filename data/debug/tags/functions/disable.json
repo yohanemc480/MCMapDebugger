@@ -1,9 +1,9 @@
 {
 	"replace": false,
 	"values": [
+		"check_version:remove",
 		"command_block_inspector:disable",
 		"tag_inspector:disable",
-		"visualize_unseen_entity:disable",
-		"check_version:remove"
+		"visualize_unseen_entity:disable"
 	]
 }

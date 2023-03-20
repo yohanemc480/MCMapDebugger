@@ -2,9 +2,9 @@
 	"_comment":"ここで定義されている関数を書き換えて、有効化する機能を選択できる。ただしcheck_version:はこのデータパックを使用できるかチェックしている関数なので常に有効化することを推奨。",
 	"replace": false,
 	"values": [
+		"check_version:",
 		"command_block_inspector:enable",
 		"tag_inspector:enable",
-		"visualize_unseen_entity:enable",
-		"check_version:"
+		"visualize_unseen_entity:enable"
 	]
 }
