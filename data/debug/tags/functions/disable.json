@@ -3,6 +3,7 @@
 	"values": [
 		"command_block_inspector:disable",
 		"tag_inspector:disable",
-		"visualize_unseen_entity:disable"
+		"visualize_unseen_entity:disable",
+		"check_version:remove"
 	]
 }
