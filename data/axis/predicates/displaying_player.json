@@ -1,0 +1,10 @@
+{
+  "_comment":"axisを表示するプレイヤーの条件",
+  "condition": "minecraft:entity_properties",
+  "entity": "this",
+  "predicate": {
+    "flags": {
+      "is_sneaking": true
+    }
+  }
+}

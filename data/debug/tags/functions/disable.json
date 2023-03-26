@@ -4,6 +4,7 @@
 		"check_version:remove",
 		"command_block_inspector:disable",
 		"tag_inspector:disable",
-		"visualize_unseen_entity:disable"
+		"visualize_unseen_entity:disable",
+		"axis:disable"
 	]
 }
